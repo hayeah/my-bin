@@ -1,0 +1,4 @@
+#!/bin/bash
+
+git pull origin
+git rebase origin
